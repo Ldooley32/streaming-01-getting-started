@@ -70,13 +70,9 @@ Use the terminal and the python command to execute the Python script.
 
 1. Use your VS Code terminal window from above or open a new terminal window (View / Terminal) in VS Code.
 
-Important: 
-
-- If Mac/Linux, change `python` to `python3` in the commands below.
-- In Windows, you might try `py` instead of `python`.
 
 ```shell
-python util_about.py
+python3 util_about.py
 ```
 
 ✔️ Make sure your script runs successfully. 
